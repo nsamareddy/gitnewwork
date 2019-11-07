@@ -1,0 +1,1 @@
+https://ronnieroller.com/kafka/cheat-sheet#describe-configs-for-a-topic
